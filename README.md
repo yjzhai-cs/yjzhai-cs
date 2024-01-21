@@ -1,6 +1,6 @@
 Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yjzha-csi&show_icons=true&count_private=true&theme=transparent" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yjzha-cs&show_icons=true&count_private=true&theme=transparent" />
 
  
  - 🤖 I'm a postgraduate student of Chongqing University, China.
