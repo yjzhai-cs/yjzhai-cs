@@ -12,3 +12,5 @@ Hi there 👋
 <!--[![6.5840](https://github-readme-stats.vercel.app/api/pin/?username=yjzhai&repo=6.5840&theme=transparent)](https://github.com/yjzhai/6.5840)-->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjzhai&theme=transparent"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
