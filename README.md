@@ -13,4 +13,4 @@ Hi there 👋
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjzhai&theme=transparent"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![yjzhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjzhai)](https://github.com/yjzhai/github-readme-stats)
