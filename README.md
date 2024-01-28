@@ -7,6 +7,7 @@ Hi there 👋
  - 🌱 I’m currently focusing on distributed meachine learning, especially Federated Learning (FL).
  - 👀 If you have any questions about my repos, just open an issue and I would reply you.
  - 📫 How to reach me [here](yjzhai-cs@gmail.com).
+ - I reproduced this work [FedAvg-LQR:FedAvg Optimization On LQR Control Of A 1-Dimensional Point Mass "Robot](https://github.com/dflr-lab/FedAvg-LQR).
 
 
 <!--[![6.5840](https://github-readme-stats.vercel.app/api/pin/?username=yjzhai&repo=6.5840&theme=transparent)](https://github.com/yjzhai/6.5840)-->
