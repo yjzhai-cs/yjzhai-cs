@@ -13,5 +13,9 @@ Hi there 👋
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjzhai-cs&theme=transparent"/>
 
-News ❤
+News ❤ and Maintaining Projects
+-  [FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles](https://github.com/yjzhai-cs/FedRAV).
+-  I opened the new vehicle classification dataset [Vehicle-10 dataset: Vehicle classification](https://github.com/yjzhai-cs/Vehicle-10).
 -  I reproduced this work [FedAvg-LQR:FedAvg Optimization On LQR Control Of A 1-Dimensional Point Mass "Robot](https://github.com/dflr-lab/FedAvg-LQR).
+-  I implemented this distributed computing framework [MapReduce: Simplified Data Processing on Large Clusters](https://github.com/yjzhai-cs/MapReduce).
+-  I implemented this distributed consensus protocol [In Search of an Understandable Consensus Algorithm](https://github.com/yjzhai-cs/KVRaft).
