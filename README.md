@@ -29,5 +29,5 @@ News ❤ and Maintaining Projects
 
 ***Projects***:
 -  I reproduced this work [FedAvg-LQR:FedAvg Optimization On LQR Control Of A 1-Dimensional Point Mass "Robot](https://github.com/dflr-lab/FedAvg-LQR).
--  I implemented this distributed computing framework [MapReduce: Simplified Data Processing on Large Clusters](https://github.com/yjzhai-cs/MapReduce).
--  I implemented this distributed consensus protocol [In Search of an Understandable Consensus Algorithm](https://github.com/yjzhai-cs/KVRaft).
+-  I implemented this distributed computing framework [MapReduce: Simplified Data Processing on Large Clusters](https://github.com/yjzhai-cs/MapReduce). [MapReduce Code](https://github.com/yjzhai-cs/MapReduce).
+-  I implemented this distributed consensus protocol [In Search of an Understandable Consensus Algorithm](https://github.com/yjzhai-cs/KVRaft). [KVRaft Code](https://github.com/yjzhai-cs/KVRaft).
