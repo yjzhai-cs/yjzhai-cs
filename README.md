@@ -17,7 +17,7 @@ News ❤ and Maintaining Projects
 
 ***Papers***: 
 -  FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles. [Paper](https://arxiv.org/abs/2411.13979), [Code](https://github.com/yjzhai-cs/FedRAV).
--  uFedMba: Unforgotten Presonalized Federated Learning with Memory Bank for Adaptively Aggregated Layers. [uFedMba Code](https://github.com/yjzhai-cs/uFedMba).
+-  uFedMba: Unforgotten Presonalized Federated Learning with Memory Bank for Adaptively Aggregated Layers. [Code](https://github.com/yjzhai-cs/uFedMba).
 -  FedPAW: Federated Learning With Personalized Aggregation Weights for Urban Vehicle Speed Prediction. [Paper](https://ieeexplore.ieee.org/abstract/document/10663571), [Code](https://github.com/heyuepeng/PFLlibVSP).
 -  FedAH: Aggregated Head for Personalized Federated Learning. [Paper](https://arxiv.org/pdf/2412.01295), [Code](https://github.com/heyuepeng/FedAH).
 -  HfedPES: Hierarchical Personalized Federated Learning with Edge Selection.
