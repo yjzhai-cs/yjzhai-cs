@@ -33,4 +33,4 @@ News ❤ and Maintaining Projects
 -  [KVRaft Code](https://github.com/yjzhai-cs/KVRaft). I implemented this distributed consensus protocol [In Search of an Understandable Consensus Algorithm](https://github.com/yjzhai-cs/KVRaft).
 
 ***NoteBooks***:
-- [DILA: Dive Into LeetCode’s Algorithm](https://github.com/dcsr-lab/DILA)
+- [DILA: Dive Into LeetCode’s Algorithm](https://github.com/dcsr-lab/DILA). The new algorithm book is open-accessed.
